@@ -2,7 +2,7 @@
 
 **`Data Enthusiast`**
 
-👋🏽 Hello, I am Benson, a recent graduate from Simon Fraser University with a Bachelor's of Science in Statistics looking for full-time opportunities. 
+👋🏽 Hello, I am Benson, a recent graduate from Simon Fraser University with a Bachelor of Science in Statistics looking for full-time opportunities. 
 
 📈 What makes me passionate about analyzing data is the ability to extract insight for solutions. There is so much information to uncover, and being such a curious person, I enjoy diving deep into the data and finding answers to problems. 
 
