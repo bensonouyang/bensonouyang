@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="PowerBI" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />      
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Scikitlearn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 <img align="left" alt="Tensorflow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-<img align="left" alt="PowerBI" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
