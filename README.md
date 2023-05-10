@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="PowerBI" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
+<img align="left" alt="Excel" width="30px" src="https://img.icons8.com/?size=512&id=UECmBSgBOvPT&format=png" />
+<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />      
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
